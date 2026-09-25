@@ -1,6 +1,6 @@
 # zephyr_AAA
 Collaborators:
-test
+
 Team Member 1 : Bhav Saluja
 
 Team Member 2 : Kasey Chuang
